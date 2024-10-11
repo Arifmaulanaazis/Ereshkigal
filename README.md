@@ -1,6 +1,8 @@
 # Ereshkigal
 
-![Ereshkigal](icon.png)
+<p align="center">
+  <img src="icon.png" alt="Ereshkigal Icon" width="300" height="300" style="object-fit: cover;">
+</p>
 
 ## Lisensi
 **Lisensi:** GPLv3
