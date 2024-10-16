@@ -21,7 +21,7 @@ Ereshkigal adalah aplikasi pengujian injeksi paket (deauther) WiFi yang dirancan
 - Modul RTL8720DN (AI-Thinker BW16)
 - Kabel USB Tipe C untuk koneksi antara modul dan komputer
 - Komputer dengan sistem operasi Windows
-- Ereshkigal V1.0.1.bin (file binary aplikasi)
+- Ereshkigal V1.0.2.bin (file binary aplikasi)
 - Ereshkigal Flasher V1.0.0.exe (aplikasi untuk flashing)
 
 ## Video Tutorial Instalasi dan Pemakaian
@@ -30,7 +30,7 @@ Untuk tutorial instalasi dan pemakaian, silakan tonton video di [YouTube](https:
 ## Cara Flashing
 1. Hubungkan modul RTL8720DN ke komputer menggunakan kabel USB Tipe C.
 2. Unduh dan jalankan `Ereshkigal Flasher V1.0.0.exe`.
-3. Pilih file `Ereshkigal V1.0.1.bin` yang telah Anda unduh sebelumnya.
+3. Pilih file `Ereshkigal V1.0.2.bin` yang telah Anda unduh sebelumnya.
 4. Klik tombol "Start Flash" untuk memulai proses flashing.
 5. Tunggu hingga proses flashing selesai. Modul akan reboot secara otomatis.
 
