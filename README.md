@@ -18,7 +18,7 @@ Ereshkigal adalah aplikasi pengujian injeksi paket (deauther) WiFi yang dirancan
 - Proses flashing yang mudah dengan Ereshkigal Flasher.
 
 ## Bahan-bahan yang Dibutuhkan
-- Modul RTL8720DN (AI-Thinker BW16) [Bisa beli di sini](https://tokopedia.link/1k7qXB2VENb).
+- Modul RTL8720DN (AI-Thinker BW16) [Saya belinya di sini](https://tokopedia.link/1k7qXB2VENb).
 - Kabel USB Tipe C untuk koneksi antara modul dan komputer
 - Komputer dengan sistem operasi Windows
 - Ereshkigal.bin (file binary aplikasi)
