@@ -4,6 +4,11 @@
   <img src="icon.png" alt="Ereshkigal Icon" width="300" height="300" style="object-fit: cover;">
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arifmaulanaazis.Ereshkigal" alt="visitor badge"/>
+  <img src="https://img.shields.io/github/downloads/Arifmaulanaazis/Ereshkigal/total?style=flat-square" alt="GitHub downloads"/>
+</p>
+
 <h2 align="center">Lisensi</h2>
 <p align="center"><strong>Lisensi:</strong> GPLv3</p>
 
