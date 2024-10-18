@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arifmaulanaazis.Ereshkigal" alt="visitor badge"/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArifmaulanaazis%2FEreshkigal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total+Viewer&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/downloads/Arifmaulanaazis/Ereshkigal/total?style=flat-square" alt="GitHub downloads"/>
 </p>
 
