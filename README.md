@@ -13,11 +13,11 @@
 <p align="center"><strong>Lisensi:</strong> GPLv3</p>
 
 ## Pilih Bahasa / Select Language / Chọn Ngôn Ngữ / เลือกภาษา / 言語を選択
-- [Indonesia](#deskripsi-aplikasi)
-- [English](#application-description)
-- [Vietnamese](#m%C3%B4-t%E1%ả-ứng-d%E1%BB%A5ng)
-- [Thai](#%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99)
-- [Japanese](#%E3%82%A8%E3%83%AC%E3%82%B7%E3%82%AD%E3%82%AC%E3%83%AB%E3%81%AE%E5%85%B1%E7%AB%8B)
+- [Indonesia](README.md)
+- [English](README-English.md)
+- [Vietnamese](README-Vietnam.md)
+- [Thailand](README-Thailand.md)
+- [Japanese](README-Japanese.md)
 
 
 ## Deskripsi Aplikasi
