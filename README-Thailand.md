@@ -31,7 +31,7 @@ Ereshkigal เป็นแอปพลิเคชันการทดสอบ
 - กระบวนการแฟลชที่ง่ายด้วย Ereshkigal Flasher
 
 ## อุปกรณ์ที่ต้องใช้
-- โมดูล RTL8720DN (AI-Thinker BW16) [ซื้อที่นี่](https://tokopedia.link/
+- โมดูล RTL8720DN (AI-Thinker BW16) [ซื้อที่นี่](https://tokopedia.link/1k7qXB2VENb)
 
 1k7qXB2VENb)
 - สาย USB Type C สำหรับเชื่อมต่อระหว่างโมดูลและคอมพิวเตอร์
