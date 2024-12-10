@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/github/downloads/Arifmaulanaazis/Ereshkigal/total?style=flat-square" alt="GitHub downloads"/>
 </p>
 
-<h2 align="center">Lisensi</h2>
-<p align="center"><strong>Lisensi:</strong> GPLv3</p>
+<h2 align="center">License</h2>
+<p align="center"><strong>License:</strong> GPLv3</p>
 
 ## Pilih Bahasa / Select Language / Chọn Ngôn Ngữ / เลือกภาษา / 言語を選択
 - [Indonesia](README.md)
