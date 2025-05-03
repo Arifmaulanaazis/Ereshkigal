@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61184A31
+eax=006FCBA8 ebx=006FCBFC ecx=00000000 edx=73726573 esi=8005384F edi=73726573
+ebp=006FCB38 esp=006FCB34 program=C:\Users\arifm\AppData\Local\Arduino15\packages\realtek\tools\ameba_d_tools\1.1.3\upload_image_tool_windows.exe, pid 158, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+006FCB38  61184A31 (73726573, 8005386C, 006FCBC8, 610093C5)
+004A871C  00463020 (004ACA40, 004ACA80, 00000023, 00000024)
+End of stack trace
